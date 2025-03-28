@@ -1,0 +1,6 @@
+0 1 720 1500 i  // Delhi to Hyderabad: 720 min (12 hr), 1500 km
+1 0 720 1500 i
+1 2 600 1200 i  // Hyderabad to Bangalore: 600 min (10 hr), 1200 km
+2 1 600 1200 i
+2 0 840 1800 i  // Bangalore to Delhi: 840 min (14 hr), 1800 km
+0 2 840 1800 i
