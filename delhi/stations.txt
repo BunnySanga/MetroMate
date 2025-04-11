@@ -1,21 +1,289 @@
-0 Samaypur Badli
-1 Rohini Sector 18,19
-2 Haiderpur Badli Mor
-3 Jahangirpuri
-4 Adarsh Nagar
-5 Azadpur
-6 Model Town
-7 GTB Nagar
-8 Vishwavidyalaya
-9 Vidhan Sabha
-10 Civil Lines
-11 Kashmere Gate
-12 Chandni Chowk
-13 Chawri Bazar
-14 New Delhi
-15 Rajiv Chowk
-16 Shastri Park
-17 Seelampur
-18 Welcome
-19 Lal Qila
-20 Jama Masjid
+0  Shaheed Sthal (New Bus Adda) # r
+1  Hindon River # r
+2  Arthala # r
+3  Mohan Nagar # r
+4  Shyam Park # r
+5  Major Mohit Sharma Rajendra Nagar # r
+6  Raj Bagh # r
+7  Shaheed Nagar # r
+8  Dilshad Garden # r
+9  Jhilmil # r
+10 Mansarovar Park # r
+11 Shahdara # r
+12 Welcome # r
+13 Seelampur # r
+14 Shastri Park # r
+15 Kashmere Gate # r
+16 Tis Hazari # r
+17 Pulbangash # r
+18 Pratap Nagar # r
+19 Shastri Nagar # r
+20 Inderlok # r
+21 Kanhaiya Nagar # r
+22 Keshav Puram # r
+23 Netaji Subhash Place # r
+24 Kohat Enclave # r
+25 Pitampura # r
+26 Rohini East # r
+27 Rohini West # r
+28 Rithala # r
+# --- End of Red line ---
+
+29 Samaypur Badli # y
+30 Rohini Sector 18 19 # y
+31 Haiderpur Badli Mor # y
+32 Jahangirpuri # y
+33 Adarsh Nagar # y
+34 Azadpur # y
+35 Model Town # y
+36 Guru Teg Bahadur Nagar # y
+37 Vishwavidyalaya # y
+38 Vidhan Sabha # y
+39 Civil Lines # y
+40 Kashmere Gate # y
+41 Chandni Chowk # y
+42 Chawri Bazar # y
+43 New Delhi # y
+44 Rajiv Chowk # y
+45 Patel Chowk # y
+46 Central Secretariat # y
+47 Udyog Bhawan # y
+48 Lok Kalyan Marg # y
+49 Jor Bagh # y
+50 Dilli Haat INA # y
+51 AIIMS # y
+52 Green Park # y
+53 Hauz Khas # y
+54 Malviya Nagar # y
+55 Saket # y
+56 Qutab Minar # y
+57 Chhatarpur # y
+58 Sultanpur # y
+59 Ghitorni # y
+60 Arjan Garh # y
+61 Guru Dronacharya # y
+62 Sikanderpur # y
+63 MG Road # y
+64 Iffco Chowk # y
+65 Millennium City Centre Gurgaon # y
+# --- End of Yellow line ---
+
+66 Dwarka Sector 21 # b
+67 Dwarka Sector 8 # b
+68 Dwarka Sector 9 # b
+69 Dwarka Sector 10 # b
+70 Dwarka Sector 11 # b
+71 Dwarka Sector 12 # b
+72 Dwarka Sector 13 # b
+73 Dwarka Sector 14 # b
+74 Dwarka # b
+75 Dwarka Mor # b
+76 Nawada # b
+77 Uttam Nagar West # b
+78 Uttam Nagar East # b
+79 Janakpuri West # b
+80 Janakpuri East # b
+81 Tilak Nagar # b
+82 Subhash Nagar # b
+83 Tagore Garden # b
+84 Rajouri Garden # b
+85 Ramesh Nagar # b
+86 Moti Nagar # b
+87 Kirti Nagar # b
+88 Shadipur # b
+89 Patel Nagar # b
+90 Rajendra Place # b
+91 Karol Bagh # b
+92 Jhandewalan # b
+93 Ramakrishna Ashram Marg # b
+94 Rajiv Chowk # b
+95 Barakhamba Road # b
+96 Mandi House # b
+97 Supreme Court # b
+98 Indraprastha # b
+99 Yamuna Bank # b
+100 Akshardham # b
+101 Mayur Vihar I # b
+102 Mayur Vihar Extension # b
+103 New Ashok Nagar # b
+104 Noida Sector 15 # b
+105 Noida Sector 16 # b
+106 Noida Sector 18 # b
+107 Botanical Garden # b
+108 Golf Course # b
+109 Noida City Centre # b
+110 Sector 34 Noida # b
+111 Sector 52 Noida # b
+112 Sector 61 Noida # b
+113 Sector 59 Noida # b
+114 Sector 62 Noida # b
+115 Noida Electronic City # b
+# --- End of Blue line ---
+
+116 Yamuna Bank # B
+117 Laxmi Nagar # B
+118 Nirman Vihar # B
+119 Preet Vihar # B
+120 Karkarduma # B
+121 Anand Vihar ISBT # B
+122 Kaushambi # B
+123 Vaishali # B
+# --- End of Blue line ---
+
+124 Kirti Nagar # g
+125 Satguru Ram Singh Marg # g
+126 Inderlok # g
+127 Ashok Park Main # g
+128 Punjabi Bagh # g
+129 Punjabi Bagh West # g
+130 Shivaji Park # g
+131 Madipur # g
+132 Paschim Vihar East # g
+133 Paschim Vihar West # g
+134 Peeragarhi # g
+135 Udyog Nagar # g
+136 Maharaja Surajmal Stadium # g
+137 Nangloi # g
+138 Nangloi Railway Station # g
+139 Rajdhani Park # g
+140 Mundka # g
+141 Mundka Industrial Area MIA # g
+142 Ghevra Metro Station # g
+143 Tikri Kalan # g
+144 Tikri Border # g
+145 Pandit Shree Ram Sharma # g
+146 Bahadurgarh City # g
+147 Brig Hoshiar Singh # g
+# --- End of Green line ---
+
+148 Kashmere Gate # v
+149 Lal Quila # v
+150 Jama Masjid # v
+151 Delhi Gate # v
+152 ITO # v
+153 Mandi House # v
+154 Janpath # v
+155 Central Secretariat # v
+156 Khan Market # v
+157 JLN Stadium # v
+158 Jangpura # v
+159 Lajpat Nagar # v
+160 Moolchand # v
+161 Kailash Colony # v
+162 Nehru Place # v
+163 Kalkaji Mandir # v
+164 Govind Puri # v
+165 Harkesh Nagar Okhla # v
+166 Jasola Apollo # v
+167 Sarita Vihar # v
+168 Mohan Estate # v
+169 Tughlakabad Station # v
+170 Badarpur Border # v
+171 Sarai # v
+172 NHPC Chowk # v
+173 Mewala Maharajpur # v
+174 Sector 28 # v
+175 Badkal Mor # v
+176 Old Faridabad # v
+177 Neelam Chowk Ajronda # v
+178 Bata Chowk # v
+179 Escorts Mujesar # v
+180 Sant Surdas Sihi # v
+181 Raja Nahar Singh Ballabhgarh # v
+# --- End of Violet line ---
+
+182 Majlis Park # p
+183 Azadpur # p
+184 Shalimar Bagh # p
+185 Netaji Subhash Place # p
+186 Shakurpur # p
+187 Punjabi Bagh West # p
+188 ESI Basaidarapur # p
+189 Rajouri Garden # p
+190 Mayapuri # p
+191 Naraina Vihar # p
+192 Delhi Cantt # p
+193 Durgabai Deshmukh South Campus # p
+194 Sir M Vishweshwaraiah Moti Bagh # p
+195 Bhikaji Cama Place # p
+196 Sarojini Nagar # p
+197 Dilli Haat INA # p
+198 South Extension # p
+199 Lajpat Nagar # p
+200 Vinobapuri # p
+201 Ashram # p
+202 Sarai Kale Khan Nizamuddin # p
+203 Mayur Vihar I # p
+204 Mayur Vihar Pocket 1 # p
+205 Trilokpuri Sanjay Lake # p
+206 East Vinod Nagar Mayur Vihar II # p
+207 Mandawali West Vinod Nagar # p
+208 IP Extension # p
+209 Anand Vihar ISBT # p
+210 Karkarduma # p
+211 Karkarduma Court # p
+212 Krishna Nagar # p
+213 East Azad Nagar # p
+214 Welcome # p
+215 Jafrabad # p
+216 Maujpur Babarpur # p
+217 Gokulpuri # p
+218 Johri Enclave # p
+219 Shiv Vihar # p
+# --- End of Pink line ---
+
+220 Krishna Park Extension # m
+221 Janakpuri West # m
+222 Dabri Mor Janakpuri South # m
+223 Dashrathpuri # m
+224 Palam # m
+225 Sadar Bazaar Cantonment # m
+226 Terminal 1 IGI Airport # m
+227 Shankar Vihar # m
+228 Vasant Vihar # m
+229 Munirka # m
+230 RK Puram # m
+231 IIT # m
+232 Hauz Khas # m
+233 Panchsheel Park # m
+234 Chirag Delhi # m
+235 Greater Kailash # m
+236 Nehru Enclave # m
+237 Kalkaji Mandir # m
+238 Okhla NSIC # m
+239 Sukhdev Vihar # m
+240 Jamia Millia Islamia # m
+241 Okhla Vihar # m
+242 Jasola Vihar Shaheen Bagh # m
+243 Kalindi Kunj # m
+244 Okhla Bird Sanctuary # m
+245 Botanical Garden # m
+# --- End of Magenta line ---
+
+246 Dwarka # G
+247 Nangli # G
+248 Najafgarh # G
+249 Dhansa Bus Stand # G
+# --- End of Grey line ---
+
+250 New Delhi # a
+251 Shivaji Stadium # a
+252 Dhaula Kuan # a
+253 Delhi Aerocity # a
+254 Airport T 3 # a
+255 Dwarka Sector 21 # a
+256 Yashobhoomi Dwarka Sector 25 # a
+# --- End of Airport Express ---
+
+257 Sector 55 56 # R
+258 Sector 54 Chowk # R
+259 Sector 53 54 # R
+260 Sector 42 43 # R
+261 Phase 1 # R
+262 Sikanderpur # R
+263 Phase 2 # R
+264 Belvedere Towers # R
+265 Cyber City # R
+266 Moulasari Avenue # R
+267 Phase 3 # R
+# --- End of Rapid Metro Gurgaon ---

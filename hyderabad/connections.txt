@@ -1,0 +1,64 @@
+# Red Line (Miyapur to LB Nagar) – 26 segments, total ~29.21 km
+0 1 1.12 2 r 10
+1 2 1.12 2 r 10
+2 3 1.12 2 r 10
+3 4 1.12 2 r 10
+4 5 1.12 2 r 10
+5 6 1.12 2 r 10
+6 7 1.12 2 r 10
+7 8 1.12 2 r 10
+8 9 1.12 2 r 10
+9 10 1.12 2 r 10
+10 11 1.12 2 r 10
+11 12 1.12 2 r 10
+12 13 1.12 2 r 10
+13 14 1.12 2 r 10
+14 15 1.12 2 r 10
+15 16 1.12 2 r 10
+16 17 1.12 2 r 10
+17 18 1.12 2 r 10
+18 19 1.12 2 r 10
+19 20 1.12 2 r 10
+20 21 1.12 2 r 10
+21 22 1.12 2 r 10
+22 23 1.12 2 r 10
+23 24 1.12 2 r 10
+24 25 1.12 2 r 10
+25 26 1.12 2 r 10
+
+# Blue Line (Nagole to Raidurg) – 21 segments, total ~27 km
+27 28 1.29 2 b 10
+28 29 1.29 2 b 10
+29 30 1.29 2 b 10
+30 31 1.29 2 b 10
+31 32 1.29 2 b 10
+32 33 1.29 2 b 10
+33 34 1.29 2 b 10
+34 35 1.29 2 b 10
+35 36 1.29 2 b 10
+36 37 1.29 2 b 10
+37 38 1.29 2 b 10
+38 39 1.29 2 b 10
+39 40 1.29 2 b 10
+40 41 1.29 2 b 10
+41 42 1.29 2 b 10
+42 43 1.29 2 b 10
+43 44 1.29 2 b 10
+44 45 1.29 2 b 10
+45 46 1.29 2 b 10
+46 47 1.29 2 b 10
+47 48 1.29 2 b 10
+
+# Green Line (JBS Parade Ground to MG Bus Station to Narayanguda) – 7 segments, total ~16.6 km
+51 58 2.37 3 g 10  # JBS Parade Ground -> MG Bus Station
+58 57 2.37 3 g 10  # MG Bus Station -> Sultan Bazar
+57 56 2.37 3 g 10  # Sultan Bazar -> Narayanguda
+52 53 2.37 3 g 10  # Gandhi Hospital -> Musheerabad
+53 54 2.37 3 g 10  # Musheerabad -> RTC Cross Roads
+54 55 2.37 3 g 10  # RTC Cross Roads -> Chikkadpally
+55 56 2.37 3 g 10  # Chikkadpally -> Narayanguda
+
+# Interchange Connections
+10 40 0.0 0 i 0  # Ameerpet Interchange (Red Ameerpet <-> Blue Ameerpet)
+35 51 0.0 0 i 0  # Parade Ground Interchange (Blue Parade Ground <-> Green JBS Parade Ground)
+19 58 0.0 0 i 0  # MG Bus Station Interchange (Red MG Bus Station <-> Green MG Bus Station)

@@ -1,117 +1,71 @@
+#include "delhi/delhi.h"
+#include "bangalore/bangalore.h"
+#include "hyderabad/hyderabad.h"
+#include "inter-city/inter-city.h"
 #include <iostream>
 #include <string>
-#include "delhi/delhi.h"
-#include "hyderabad/hyderabad.h"
-#include "bangalore/bangalore.h"
-#include "inter-city/inter-city.h"
-
-using namespace std;
 
 int main() {
-    char continue_choice;
+    std::cout << "Starting initialization...\n";
 
-    // Initialize graphs for all cities and inter-city at startup
+    std::cout << "Initializing Delhi graphs...\n";
     delhi::init_delhi_graphs();
-    hyderabad::init_hyderabad_graphs();
+    std::cout << "Delhi graphs initialized.\n";
+
+    std::cout << "Initializing Bangalore graphs...\n";
     bangalore::init_bangalore_graphs();
+    std::cout << "Bangalore graphs initialized.\n";
+
+    std::cout << "Initializing Hyderabad graphs...\n";
+    hyderabad::init_hyderabad_graphs();
+    std::cout << "Hyderabad graphs initialized.\n";
+
+    std::cout << "Initializing Inter-city graphs...\n";
     intercity::init_intercity_graphs();
+    std::cout << "Inter-city graphs initialized.\n";
 
-    do {
-        int travel_type, city, choice;
-        string src, dest;
+    int travel_type;
+    std::string source, dest;
+    int choice;
 
-        cout << "Welcome to the Subway Navigation System\n";
-        cout << "1. Intra-city travel\n";
-        cout << "2. Inter-city travel\n";
-        cout << "Give Input: ";
-        cin >> travel_type;
+    std::cout << "Welcome to Subway Navigation System\n";
+    std::cout << "1. Intra-city travel\n2. Inter-city travel\nEnter travel type: ";
+    std::cin >> travel_type;
 
-        if (cin.fail()) {
-            cin.clear();
-            cin.ignore(10000, '\n');
-            cout << "\nInvalid input, please enter a number.\n";
-            continue;
-        }
+    if (travel_type == 1) {
+        std::string city;
+        std::cout << "Enter city (Delhi, Bangalore, Hyderabad): ";
+        std::cin >> city;
+        std::cout << "Enter source station: ";
+        std::cin.ignore();
+        std::getline(std::cin, source);
+        std::cout << "Enter destination station: ";
+        std::getline(std::cin, dest);
+        std::cout << "1. Shortest time\n2. Minimum fare\n3. Fewest interchanges\nEnter choice: ";
+        std::cin >> choice;
 
-        if (travel_type == 1) {
-            cout << "Choose city:\n";
-            cout << "1. Delhi\n";
-            cout << "2. Hyderabad\n";
-            cout << "3. Bangalore\n";
-            cout << "Enter choice (1-3): ";  // Clarified prompt
-            cin >> city;
-
-            if (cin.fail()) {
-                cin.clear();
-                cin.ignore(10000, '\n');
-                cout << "\nInvalid city choice, please enter a number between 1 and 3.\n";
-                continue;
-            }
-
-            cout << "Enter source station: ";
-            cin.ignore();  // Clear leftover newline
-            getline(cin, src);
-            cout << "Enter destination station: ";
-            getline(cin, dest);
-
-            cout << "1. Shortest travel time\n";
-            cout << "2. Minimum fare cost\n";
-            cout << "3. Fewest interchanges\n";
-            cout << "Give your choice: ";
-            cin >> choice;
-
-            if (cin.fail()) {
-                cin.clear();
-                cin.ignore(10000, '\n');
-                cout << "\nInvalid choice, please enter a number between 1 and 3.\n";
-                continue;
-            }
-
-            if (city == 1) {
-                delhi::find_delhi_route(src, dest, choice);
-            } else if (city == 2) {
-                hyderabad::find_hyderabad_route(src, dest, choice);
-            } else if (city == 3) {
-                bangalore::find_bangalore_route(src, dest, choice);
-            } else {
-                cout << "\nInvalid city choice\n";
-            }
-        } else if (travel_type == 2) {
-            cout << "Enter source station (e.g., Delhi_New Delhi): ";
-            cin.ignore();
-            getline(cin, src);
-            cout << "Enter destination station (e.g., Hyderabad_Secunderabad): ";
-            getline(cin, dest);
-
-            cout << "1. Shortest travel time\n";
-            cout << "2. Minimum fare cost\n";
-            cout << "3. Fewest interchanges\n";
-            cout << "Give your choice: ";
-            cin >> choice;
-
-            if (cin.fail()) {
-                cin.clear();
-                cin.ignore(10000, '\n');
-                cout << "\nInvalid choice, please enter a number between 1 and 3.\n";
-                continue;
-            }
-
-            intercity::find_intercity_route(src, dest, choice);
+        if (city == "Delhi") {
+            delhi::find_delhi_route(source, dest, choice);
+        } else if (city == "Bangalore") {
+            bangalore::find_bangalore_route(source, dest, choice);
+        } else if (city == "Hyderabad") {
+            hyderabad::find_hyderabad_route(source, dest, choice);
         } else {
-            cout << "\nInvalid travel type\n";
+            std::cout << "Invalid city\n";
         }
+    } else if (travel_type == 2) {
+        std::cout << "Enter source (City_Station, e.g., Delhi_New Delhi): ";
+        std::cin.ignore();
+        std::getline(std::cin, source);
+        std::cout << "Enter destination (City_Station): ";
+        std::getline(std::cin, dest);
+        std::cout << "1. Shortest time\n2. Minimum fare\n3. Fewest interchanges\nEnter choice: ";
+        std::cin >> choice;
 
-        cout << "Do you want to perform another operation? (Y/N): ";
-        cin >> continue_choice;
-        if (cin.fail()) {
-            cin.clear();
-            cin.ignore(10000, '\n');
-            continue_choice = 'N';  // Default to exit on invalid input
-        }
-        cin.ignore();  // Clear leftover newline
+        intercity::find_intercity_route(source, dest, choice);
+    } else {
+        std::cout << "Invalid travel type\n";
+    }
 
-    } while (continue_choice == 'Y' || continue_choice == 'y');
-
-    cout << "\nThank you for using the Subway Navigation System. Goodbye!\n";
     return 0;
 }

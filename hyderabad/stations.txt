@@ -1,0 +1,59 @@
+0  Miyapur
+1  JNTU College
+2  KPHB Colony
+3  Kukatpally
+4  Balanagar
+5  Moosapet
+6  Bharat Nagar
+7  Erragadda
+8  ESI Hospital
+9  S R Nagar
+10  Ameerpet
+11  Punjagutta
+12  Irrum Manzil
+13  Khairatabad
+14  Lakdikapul
+15  Assembly
+16  Nampally
+17  Gandhi Bhavan
+18  Osmania Medical College
+19  MG Bus Station
+20  Malakpet
+21  New Market
+22  Musarambagh
+23  Dilsukhnagar
+24  Chaitanyapuri
+25  Victoria Memorial
+26  LB Nagar
+27  Nagole
+28  Uppal
+29  Stadium
+30  NGRI
+31  Habsiguda
+32  Tarnaka
+33  Mettuguda
+34  Secunderabad East
+35  Parade Ground
+36  Paradise
+37  Rasoolpura
+38  Prakash Nagar
+39  Begumpet
+40  Ameerpet
+41  Madhura Nagar
+42  Yusufguda
+43  Road No.5 Jubilee Hills
+44  Jubilee Hills Check Post
+45  Peddamma Temple
+46  Madhapur
+47  Durgam Cheruvu
+48  HITEC City
+49  Raidurg
+50  Secunderabad West
+51  Parade Ground
+52  Gandhi Hospital
+53  Musheerabad
+54  RTC Cross Roads
+55  Chikkadpally
+56  Narayanguda
+57  Sultan Bazar
+58  MG Bus Station

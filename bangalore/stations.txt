@@ -1,0 +1,74 @@
+# Purple Line (p) - 37 stations
+0 Challaghatta # p
+1 Kengeri # p
+2 Kengeri Bus Terminal # p
+3 Pattanagere # p
+4 Jnanabharathi # p
+5 Rajarajeshwari Nagar #p
+6 pantharapalya-Nayandahalli #p
+7 Mysuru Road # p
+8 Deepanjali Nagar #p
+9 Attiguppe #p
+10 Vijayanagar # p
+11 Hosahalli # p
+12 Magadi Road # p
+13 City Railway Station # p
+14 Nadaprabhu Kempegowda Station (Majestic) # p  # Interchange with Green Line
+15 Sir M. Visvesvaraya Station # p
+16 Dr. BR Ambedkar Station (Vidhana Soudha) # p
+17 Cubbon Park # p 
+18 M.G. Road # p
+19 Trinity # p
+20 Halasuru # p
+21 Indiranagar # p
+22 Swami Vivekananda Road # p
+23 Baiyappanahalli # p
+24 Benniganahalli # p
+25 K.R. Puram # p
+26 Singayyanapalya # p
+27 Garudacharapalya # p
+28 Hoodi # p
+29 seetharamapalya # p
+30 Kundalahalli # p
+31 Nallurahalli # p
+32 Sri Satya Sai Hospital #p
+33 Pattandur Agrahara #p
+34 Kadugodi tree park #p
+35 Hooefarm Channasandra # p
+36 Whitefield (Kadugodi) # p
+# --- End of Purple Line ---
+
+# Green Line (g) - 32 stations
+37 Madavara # g
+38 Chikkabidarakallu # g
+39 Manjunath Nagar # g
+40 Nagasandra # g
+41 Dasarahalli # g
+42 Jalahalli # g
+43 Peenya Industry # g
+44 Peenya # g
+45 Goraguntepalya # g
+46 Yeshwanthpur # g
+47 Sandal Soap Factory # g
+48 Mahalakshmi # g
+49 Rajajinagar # g
+50 Kuvempu Road # g
+51 Srirampura # g
+52 Mantri Square Sampige Road # g
+53 Nadaprabhu Kempegowda Station (Majestic) # g  # Interchange with Purple Line
+54 Chickpet # g
+55 Krishna Rajendra Market # g
+56 National College # g
+57 Lalbagh  # g
+58 South End Circle # g
+59 Jayanagar # g
+60 Rashtreeya Vidyalaya Road # g
+61 Banashankari # g
+62 Jaya Prakash Nagar # g
+63 Yelachenahalli # g
+64 Konanakunte Cross # g
+65 Doddakallasandra # g
+66 Vajarahalli # g
+67 Thalaghattapura # g
+68 Silk Institute # g
+# --- End of Green Line ---

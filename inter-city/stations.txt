@@ -1,3 +1,6 @@
 0 Delhi_New Delhi
-1 Hyderabad_Secunderabad
-2 Bangalore_KSR Bengaluru
+1 Delhi_IGI Airport
+2 Hyderabad_Secunderabad East
+3 Hyderabad_Raidurg
+4 Bangalore_Kempegowda (Majestic)
+5 Bangalore_Yeswanthpur

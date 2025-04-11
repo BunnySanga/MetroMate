@@ -1,20 +1,23 @@
 #ifndef BANGALORE_H
 #define BANGALORE_H
 
+#include <string>
 #include <vector>
 #include <map>
-#include <string>
-#include <tuple>
 
 namespace bangalore {
 
-extern std::map<std::string, int> station_map;  // Maps station names to IDs
-extern std::vector<std::string> station_names;  // Maps IDs to station names
-extern std::vector<std::vector<std::tuple<int, int, float, char>>> graph;  // Graph: neighbor_id, time, distance, line_color
+extern std::map<std::string, int> station_map;
+extern std::vector<std::string> station_names;
+extern std::vector<std::vector<std::tuple<int, int, float, char, int>>> graph;
 
-void init_bangalore_graphs();  // Loads data from files
-void find_bangalore_route(const std::string& source, const std::string& dest, int choice);  // Finds route based on choice (1: time, 2: cost, 3: interchanges)
+void init_bangalore_graphs();
+float calculate_fare(float total_distance, char line);
+std::string get_line_name(char line_color);
+std::vector<int> dijkstra(int src, int dest, bool use_time);
+std::vector<int> bfs_fewest_interchanges(int src, int dest);
+void find_bangalore_route(const std::string& source, const std::string& dest, int choice);
 
 }  // namespace bangalore
 
-#endif  // BANGALORE_H
+#endif
