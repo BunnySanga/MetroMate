@@ -1,295 +1,295 @@
 # Red Line (r)
-0 1 1.5 2 r 5  # Shaheed Sthal to Hindon River
-1 2 1.2 2 r 5  # Hindon River to Arthala
-2 3 1.0 2 r 5  # Arthala to Mohan Nagar
-3 4 1.3 2 r 5  # Mohan Nagar to Shyam Park
-4 5 1.1 2 r 5  # Shyam Park to Major Mohit Sharma Rajendra Nagar
-5 6 1.0 2 r 5  # Major Mohit Sharma to Raj Bagh
-6 7 1.2 2 r 5  # Raj Bagh to Shaheed Nagar
-7 8 1.5 2 r 5  # Shaheed Nagar to Dilshad Garden
-8 9 1.0 2 r 5  # Dilshad Garden to Jhilmil
-9 10 1.2 2 r 5 # Jhilmil to Mansarovar Park
-10 11 1.1 2 r 5 # Mansarovar Park to Shahdara
-11 12 1.3 2 r 5 # Shahdara to Welcome
-12 13 1.0 2 r 5 # Welcome to Seelampur
-13 14 1.2 2 r 5 # Seelampur to Shastri Park
-14 15 1.5 2 r 5 # Shastri Park to Kashmere Gate
-15 16 1.0 2 r 5 # Kashmere Gate to Tis Hazari
-16 17 1.2 2 r 5 # Tis Hazari to Pulbangash
-17 18 1.1 2 r 5 # Pulbangash to Pratap Nagar
-18 19 1.0 2 r 5 # Pratap Nagar to Shastri Nagar
-19 20 1.3 2 r 5 # Shastri Nagar to Inderlok
-20 21 1.2 2 r 5 # Inderlok to Kanhaiya Nagar
-21 22 1.0 2 r 5 # Kanhaiya Nagar to Keshav Puram
-22 23 1.5 2 r 5 # Keshav Puram to Netaji Subhash Place
-23 24 1.2 2 r 5 # Netaji Subhash Place to Kohat Enclave
-24 25 1.1 2 r 5 # Kohat Enclave to Pitampura
-25 26 1.0 2 r 5 # Pitampura to Rohini East
-26 27 1.3 2 r 5 # Rohini East to Rohini West
-27 28 1.5 2 r 5 # Rohini West to Rithala
+0 1 1.5 2 r  # Shaheed Sthal to Hindon River
+1 2 1.2 2 r  # Hindon River to Arthala
+2 3 1.0 2 r  # Arthala to Mohan Nagar
+3 4 1.3 2 r  # Mohan Nagar to Shyam Park
+4 5 1.1 2 r  # Shyam Park to Major Mohit Sharma Rajendra Nagar
+5 6 1.0 2 r  # Major Mohit Sharma to Raj Bagh
+6 7 1.2 2 r  # Raj Bagh to Shaheed Nagar
+7 8 1.5 2 r  # Shaheed Nagar to Dilshad Garden
+8 9 1.0 2 r  # Dilshad Garden to Jhilmil
+9 10 1.2 2 r  # Jhilmil to Mansarovar Park
+10 11 1.1 2 r  # Mansarovar Park to Shahdara
+11 12 1.3 2 r  # Shahdara to Welcome
+12 13 1.0 2 r  # Welcome to Seelampur
+13 14 1.2 2 r  # Seelampur to Shastri Park
+14 15 1.5 2 r  # Shastri Park to Kashmere Gate
+15 16 1.0 2 r  # Kashmere Gate to Tis Hazari
+16 17 1.2 2 r  # Tis Hazari to Pulbangash
+17 18 1.1 2 r  # Pulbangash to Pratap Nagar
+18 19 1.0 2 r  # Pratap Nagar to Shastri Nagar
+19 20 1.3 2 r  # Shastri Nagar to Inderlok
+20 21 1.2 2 r  # Inderlok to Kanhaiya Nagar
+21 22 1.0 2 r  # Kanhaiya Nagar to Keshav Puram
+22 23 1.5 2 r  # Keshav Puram to Netaji Subhash Place
+23 24 1.2 2 r  # Netaji Subhash Place to Kohat Enclave
+24 25 1.1 2 r  # Kohat Enclave to Pitampura
+25 26 1.0 2 r  # Pitampura to Rohini East
+26 27 1.3 2 r  # Rohini East to Rohini West
+27 28 1.5 2 r  # Rohini West to Rithala
 
 # Yellow Line (y)
-29 30 1.5 2 y 5  # Samaypur Badli to Rohini Sector 18 19
-30 31 1.2 2 y 5  # Rohini Sector 18 19 to Haiderpur Badli Mor
-31 32 1.0 2 y 5  # Haiderpur Badli Mor to Jahangirpuri
-32 33 1.3 2 y 5  # Jahangirpuri to Adarsh Nagar
-33 34 1.1 2 y 5  # Adarsh Nagar to Azadpur
-34 35 1.0 2 y 5  # Azadpur to Model Town
-35 36 1.2 2 y 5  # Model Town to Guru Teg Bahadur Nagar
-36 37 1.5 2 y 5  # Guru Teg Bahadur Nagar to Vishwavidyalaya
-37 38 1.0 2 y 5  # Vishwavidyalaya to Vidhan Sabha
-38 39 1.2 2 y 5  # Vidhan Sabha to Civil Lines
-39 40 1.1 2 y 5  # Civil Lines to Kashmere Gate
-40 41 1.3 2 y 5  # Kashmere Gate to Chandni Chowk
-41 42 1.0 2 y 5  # Chandni Chowk to Chawri Bazar
-42 43 1.5 2 y 5  # Chawri Bazar to New Delhi
-43 44 1.2 2 y 5  # New Delhi to Rajiv Chowk
-44 45 1.1 2 y 5  # Rajiv Chowk to Patel Chowk
-45 46 1.0 2 y 5  # Patel Chowk to Central Secretariat
-46 47 1.3 2 y 5  # Central Secretariat to Udyog Bhawan
-47 48 1.2 2 y 5  # Udyog Bhawan to Lok Kalyan Marg
-48 49 1.0 2 y 5  # Lok Kalyan Marg to Jor Bagh
-49 50 1.5 2 y 5  # Jor Bagh to Dilli Haat INA
-50 51 1.2 2 y 5  # Dilli Haat INA to AIIMS
-51 52 1.1 2 y 5  # AIIMS to Green Park
-52 53 1.0 2 y 5  # Green Park to Hauz Khas
-53 54 1.3 2 y 5  # Hauz Khas to Malviya Nagar
-54 55 1.2 2 y 5  # Malviya Nagar to Saket
-55 56 1.0 2 y 5  # Saket to Qutab Minar
-56 57 1.5 2 y 5  # Qutab Minar to Chhatarpur
-57 58 1.2 2 y 5  # Chhatarpur to Sultanpur
-58 59 1.1 2 y 5  # Sultanpur to Ghitorni
-59 60 1.0 2 y 5  # Ghitorni to Arjan Garh
-60 61 1.3 2 y 5  # Arjan Garh to Guru Dronacharya
-61 62 1.2 2 y 5  # Guru Dronacharya to Sikanderpur
-62 63 1.0 2 y 5  # Sikanderpur to MG Road
-63 64 1.5 2 y 5  # MG Road to Iffco Chowk
-64 65 1.2 2 y 5  # Iffco Chowk to Millennium City Centre Gurgaon
+29 30 1.5 2 y  # Samaypur Badli to Rohini Sector 18 19
+30 31 1.2 2 y  # Rohini Sector 18 19 to Haiderpur Badli Mor
+31 32 1.0 2 y  # Haiderpur Badli Mor to Jahangirpuri
+32 33 1.3 2 y  # Jahangirpuri to Adarsh Nagar
+33 34 1.1 2 y  # Adarsh Nagar to Azadpur
+34 35 1.0 2 y  # Azadpur to Model Town
+35 36 1.2 2 y  # Model Town to Guru Teg Bahadur Nagar
+36 37 1.5 2 y  # Guru Teg Bahadur Nagar to Vishwavidyalaya
+37 38 1.0 2 y  # Vishwavidyalaya to Vidhan Sabha
+38 39 1.2 2 y  # Vidhan Sabha to Civil Lines
+39 40 1.1 2 y  # Civil Lines to Kashmere Gate
+40 41 1.3 2 y  # Kashmere Gate to Chandni Chowk
+41 42 1.0 2 y  # Chandni Chowk to Chawri Bazar
+42 43 1.5 2 y  # Chawri Bazar to New Delhi
+43 44 1.2 2 y  # New Delhi to Rajiv Chowk
+44 45 1.1 2 y  # Rajiv Chowk to Patel Chowk
+45 46 1.0 2 y  # Patel Chowk to Central Secretariat
+46 47 1.3 2 y  # Central Secretariat to Udyog Bhawan
+47 48 1.2 2 y  # Udyog Bhawan to Lok Kalyan Marg
+48 49 1.0 2 y  # Lok Kalyan Marg to Jor Bagh
+49 50 1.5 2 y  # Jor Bagh to Dilli Haat INA
+50 51 1.2 2 y  # Dilli Haat INA to AIIMS
+51 52 1.1 2 y  # AIIMS to Green Park
+52 53 1.0 2 y  # Green Park to Hauz Khas
+53 54 1.3 2 y  # Hauz Khas to Malviya Nagar
+54 55 1.2 2 y  # Malviya Nagar to Saket
+55 56 1.0 2 y  # Saket to Qutab Minar
+56 57 1.5 2 y  # Qutab Minar to Chhatarpur
+57 58 1.2 2 y  # Chhatarpur to Sultanpur
+58 59 1.1 2 y  # Sultanpur to Ghitorni
+59 60 1.0 2 y  # Ghitorni to Arjan Garh
+60 61 1.3 2 y  # Arjan Garh to Guru Dronacharya
+61 62 1.2 2 y  # Guru Dronacharya to Sikanderpur
+62 63 1.0 2 y  # Sikanderpur to MG Road
+63 64 1.5 2 y  # MG Road to Iffco Chowk
+64 65 1.2 2 y  # Iffco Chowk to Millennium City Centre Gurgaon
 
 # Blue Line 1 (b)
-66 67 1.5 2 b 5  # Dwarka Sector 21 to Dwarka Sector 8
-67 68 1.2 2 b 5  # Dwarka Sector 8 to Dwarka Sector 9
-68 69 1.0 2 b 5  # Dwarka Sector 9 to Dwarka Sector 10
-69 70 1.3 2 b 5  # Dwarka Sector 10 to Dwarka Sector 11
-70 71 1.1 2 b 5  # Dwarka Sector 11 to Dwarka Sector 12
-71 72 1.0 2 b 5  # Dwarka Sector 12 to Dwarka Sector 13
-72 73 1.2 2 b 5  # Dwarka Sector 13 to Dwarka Sector 14
-73 74 1.5 2 b 5  # Dwarka Sector 14 to Dwarka
-74 75 1.0 2 b 5  # Dwarka to Dwarka Mor
-75 76 1.2 2 b 5  # Dwarka Mor to Nawada
-76 77 1.1 2 b 5  # Nawada to Uttam Nagar West
-77 78 1.0 2 b 5  # Uttam Nagar West to Uttam Nagar East
-78 79 1.3 2 b 5  # Uttam Nagar East to Janakpuri West
-79 80 1.2 2 b 5  # Janakpuri West to Janakpuri East
-80 81 1.0 2 b 5  # Janakpuri East to Tilak Nagar
-81 82 1.5 2 b 5  # Tilak Nagar to Subhash Nagar
-82 83 1.2 2 b 5  # Subhash Nagar to Tagore Garden
-83 84 1.1 2 b 5  # Tagore Garden to Rajouri Garden
-84 85 1.0 2 b 5  # Rajouri Garden to Ramesh Nagar
-85 86 1.3 2 b 5  # Ramesh Nagar to Moti Nagar
-86 87 1.2 2 b 5  # Moti Nagar to Kirti Nagar
-87 88 1.0 2 b 5  # Kirti Nagar to Shadipur
-88 89 1.5 2 b 5  # Shadipur to Patel Nagar
-89 90 1.2 2 b 5  # Patel Nagar to Rajendra Place
-90 91 1.1 2 b 5  # Rajendra Place to Karol Bagh
-91 92 1.0 2 b 5  # Karol Bagh to Jhandewalan
-92 93 1.3 2 b 5  # Jhandewalan to Ramakrishna Ashram Marg
-93 94 1.2 2 b 5  # Ramakrishna Ashram Marg to Rajiv Chowk
-94 95 1.0 2 b 5  # Rajiv Chowk to Barakhamba Road
-95 96 1.5 2 b 5  # Barakhamba Road to Mandi House
-96 97 1.2 2 b 5  # Mandi House to Supreme Court
-97 98 1.1 2 b 5  # Supreme Court to Indraprastha
-98 99 1.0 2 b 5  # Indraprastha to Yamuna Bank
-99 100 1.3 2 b 5 # Yamuna Bank to Akshardham
-100 101 1.2 2 b 5 # Akshardham to Mayur Vihar I
-101 102 1.0 2 b 5 # Mayur Vihar I to Mayur Vihar Extension
-102 103 1.5 2 b 5 # Mayur Vihar Extension to New Ashok Nagar
-103 104 1.2 2 b 5 # New Ashok Nagar to Noida Sector 15
-104 105 1.1 2 b 5 # Noida Sector 15 to Noida Sector 16
-105 106 1.0 2 b 5 # Noida Sector 16 to Noida Sector 18
-106 107 1.3 2 b 5 # Noida Sector 18 to Botanical Garden
-107 108 1.2 2 b 5 # Botanical Garden to Golf Course
-108 109 1.0 2 b 5 # Golf Course to Noida City Centre
-109 110 1.5 2 b 5 # Noida City Centre to Sector 34 Noida
-110 111 1.2 2 b 5 # Sector 34 Noida to Sector 52 Noida
-111 112 1.1 2 b 5 # Sector 52 Noida to Sector 61 Noida
-112 113 1.0 2 b 5 # Sector 61 Noida to Sector 59 Noida
-113 114 1.3 2 b 5 # Sector 59 Noida to Sector 62 Noida
-114 115 1.5 2 b 5 # Sector 62 Noida to Noida Electronic City
+66 67 1.5 2 b  # Dwarka Sector 21 to Dwarka Sector 8
+67 68 1.2 2 b  # Dwarka Sector 8 to Dwarka Sector 9
+68 69 1.0 2 b  # Dwarka Sector 9 to Dwarka Sector 10
+69 70 1.3 2 b  # Dwarka Sector 10 to Dwarka Sector 11
+70 71 1.1 2 b  # Dwarka Sector 11 to Dwarka Sector 12
+71 72 1.0 2 b  # Dwarka Sector 12 to Dwarka Sector 13
+72 73 1.2 2 b  # Dwarka Sector 13 to Dwarka Sector 14
+73 74 1.5 2 b  # Dwarka Sector 14 to Dwarka
+74 75 1.0 2 b  # Dwarka to Dwarka Mor
+75 76 1.2 2 b  # Dwarka Mor to Nawada
+76 77 1.1 2 b  # Nawada to Uttam Nagar West
+77 78 1.0 2 b  # Uttam Nagar West to Uttam Nagar East
+78 79 1.3 2 b  # Uttam Nagar East to Janakpuri West
+79 80 1.2 2 b  # Janakpuri West to Janakpuri East
+80 81 1.0 2 b  # Janakpuri East to Tilak Nagar
+81 82 1.5 2 b  # Tilak Nagar to Subhash Nagar
+82 83 1.2 2 b  # Subhash Nagar to Tagore Garden
+83 84 1.1 2 b  # Tagore Garden to Rajouri Garden
+84 85 1.0 2 b  # Rajouri Garden to Ramesh Nagar
+85 86 1.3 2 b  # Ramesh Nagar to Moti Nagar
+86 87 1.2 2 b  # Moti Nagar to Kirti Nagar
+87 88 1.0 2 b  # Kirti Nagar to Shadipur
+88 89 1.5 2 b  # Shadipur to Patel Nagar
+89 90 1.2 2 b  # Patel Nagar to Rajendra Place
+90 91 1.1 2 b  # Rajendra Place to Karol Bagh
+91 92 1.0 2 b  # Karol Bagh to Jhandewalan
+92 93 1.3 2 b  # Jhandewalan to Ramakrishna Ashram Marg
+93 94 1.2 2 b  # Ramakrishna Ashram Marg to Rajiv Chowk
+94 95 1.0 2 b  # Rajiv Chowk to Barakhamba Road
+95 96 1.5 2 b  # Barakhamba Road to Mandi House
+96 97 1.2 2 b  # Mandi House to Supreme Court
+97 98 1.1 2 b  # Supreme Court to Indraprastha
+98 99 1.0 2 b  # Indraprastha to Yamuna Bank
+99 100 1.3 2 b  # Yamuna Bank to Akshardham
+100 101 1.2 2 b  # Akshardham to Mayur Vihar I
+101 102 1.0 2 b  # Mayur Vihar I to Mayur Vihar Extension
+102 103 1.5 2 b  # Mayur Vihar Extension to New Ashok Nagar
+103 104 1.2 2 b  # New Ashok Nagar to Noida Sector 15
+104 105 1.1 2 b  # Noida Sector 15 to Noida Sector 16
+105 106 1.0 2 b  # Noida Sector 16 to Noida Sector 18
+106 107 1.3 2 b  # Noida Sector 18 to Botanical Garden
+107 108 1.2 2 b  # Botanical Garden to Golf Course
+108 109 1.0 2 b  # Golf Course to Noida City Centre
+109 110 1.5 2 b  # Noida City Centre to Sector 34 Noida
+110 111 1.2 2 b  # Sector 34 Noida to Sector 52 Noida
+111 112 1.1 2 b  # Sector 52 Noida to Sector 61 Noida
+112 113 1.0 2 b  # Sector 61 Noida to Sector 59 Noida
+113 114 1.3 2 b  # Sector 59 Noida to Sector 62 Noida
+114 115 1.5 2 b  # Sector 62 Noida to Noida Electronic City
 
 # Blue Line 2 (B)
-116 117 1.2 2 B 5 # Yamuna Bank to Laxmi Nagar
-117 118 1.0 2 B 5 # Laxmi Nagar to Nirman Vihar
-118 119 1.3 2 B 5 # Nirman Vihar to Preet Vihar
-119 120 1.2 2 B 5 # Preet Vihar to Karkarduma
-120 121 1.0 2 B 5 # Karkarduma to Anand Vihar ISBT
-121 122 1.5 2 B 5 # Anand Vihar ISBT to Kaushambi
-122 123 1.2 2 B 5 # Kaushambi to Vaishali
+116 117 1.2 2 B  # Yamuna Bank to Laxmi Nagar
+117 118 1.0 2 B  # Laxmi Nagar to Nirman Vihar
+118 119 1.3 2 B  # Nirman Vihar to Preet Vihar
+119 120 1.2 2 B  # Preet Vihar to Karkarduma
+120 121 1.0 2 B  # Karkarduma to Anand Vihar ISBT
+121 122 1.5 2 B  # Anand Vihar ISBT to Kaushambi
+122 123 1.2 2 B  # Kaushambi to Vaishali
 
 # Green Line (g)
-124 125 1.5 2 g 5 # Kirti Nagar to Satguru Ram Singh Marg
-125 126 1.2 2 g 5 # Satguru Ram Singh Marg to Inderlok
-126 127 1.0 2 g 5 # Inderlok to Ashok Park Main
-127 128 1.3 2 g 5 # Ashok Park Main to Punjabi Bagh
-128 129 1.1 2 g 5 # Punjabi Bagh to Punjabi Bagh West
-129 130 1.0 2 g 5 # Punjabi Bagh West to Shivaji Park
-130 131 1.2 2 g 5 # Shivaji Park to Madipur
-131 132 1.5 2 g 5 # Madipur to Paschim Vihar East
-132 133 1.0 2 g 5 # Paschim Vihar East to Paschim Vihar West
-133 134 1.2 2 g 5 # Paschim Vihar West to Peeragarhi
-134 135 1.1 2 g 5 # Peeragarhi to Udyog Nagar
-135 136 1.0 2 g 5 # Udyog Nagar to Maharaja Surajmal Stadium
-136 137 1.3 2 g 5 # Maharaja Surajmal Stadium to Nangloi
-137 138 1.2 2 g 5 # Nangloi to Nangloi Railway Station
-138 139 1.0 2 g 5 # Nangloi Railway Station to Rajdhani Park
-139 140 1.5 2 g 5 # Rajdhani Park to Mundka
-140 141 1.2 2 g 5 # Mundka to Mundka Industrial Area MIA
-141 142 1.1 2 g 5 # Mundka Industrial Area MIA to Ghevra Metro Station
-142 143 1.0 2 g 5 # Ghevra Metro Station to Tikri Kalan
-143 144 1.3 2 g 5 # Tikri Kalan to Tikri Border
-144 145 1.2 2 g 5 # Tikri Border to Pandit Shree Ram Sharma
-145 146 1.0 2 g 5 # Pandit Shree Ram Sharma to Bahadurgarh City
-146 147 1.5 2 g 5 # Bahadurgarh City to Brig Hoshiar Singh
+124 125 1.5 2 g  # Kirti Nagar to Satguru Ram Singh Marg
+125 126 1.2 2 g  # Satguru Ram Singh Marg to Inderlok
+126 127 1.0 2 g  # Inderlok to Ashok Park Main
+127 128 1.3 2 g  # Ashok Park Main to Punjabi Bagh
+128 129 1.1 2 g  # Punjabi Bagh to Punjabi Bagh West
+129 130 1.0 2 g  # Punjabi Bagh West to Shivaji Park
+130 131 1.2 2 g  # Shivaji Park to Madipur
+131 132 1.5 2 g  # Madipur to Paschim Vihar East
+132 133 1.0 2 g  # Paschim Vihar East to Paschim Vihar West
+133 134 1.2 2 g  # Paschim Vihar West to Peeragarhi
+134 135 1.1 2 g  # Peeragarhi to Udyog Nagar
+135 136 1.0 2 g  # Udyog Nagar to Maharaja Surajmal Stadium
+136 137 1.3 2 g  # Maharaja Surajmal Stadium to Nangloi
+137 138 1.2 2 g  # Nangloi to Nangloi Railway Station
+138 139 1.0 2 g  # Nangloi Railway Station to Rajdhani Park
+139 140 1.5 2 g  # Rajdhani Park to Mundka
+140 141 1.2 2 g  # Mundka to Mundka Industrial Area MIA
+141 142 1.1 2 g  # Mundka Industrial Area MIA to Ghevra Metro Station
+142 143 1.0 2 g  # Ghevra Metro Station to Tikri Kalan
+143 144 1.3 2 g  # Tikri Kalan to Tikri Border
+144 145 1.2 2 g  # Tikri Border to Pandit Shree Ram Sharma
+145 146 1.0 2 g  # Pandit Shree Ram Sharma to Bahadurgarh City
+146 147 1.5 2 g  # Bahadurgarh City to Brig Hoshiar Singh
 
 # Violet Line (v)
-148 149 1.5 2 v 5 # Kashmere Gate to Lal Quila
-149 150 1.2 2 v 5 # Lal Quila to Jama Masjid
-150 151 1.0 2 v 5 # Jama Masjid to Delhi Gate
-151 152 1.3 2 v 5 # Delhi Gate to ITO
-152 153 1.1 2 v 5 # ITO to Mandi House
-153 154 1.0 2 v 5 # Mandi House to Janpath
-154 155 1.2 2 v 5 # Janpath to Central Secretariat
-155 156 1.5 2 v 5 # Central Secretariat to Khan Market
-156 157 1.0 2 v 5 # Khan Market to JLN Stadium
-157 158 1.2 2 v 5 # JLN Stadium to Jangpura
-158 159 1.1 2 v 5 # Jangpura to Lajpat Nagar
-159 160 1.0 2 v 5 # Lajpat Nagar to Moolchand
-160 161 1.3 2 v 5 # Moolchand to Kailash Colony
-161 162 1.2 2 v 5 # Kailash Colony to Nehru Place
-162 163 1.0 2 v 5 # Nehru Place to Kalkaji Mandir
-163 164 1.5 2 v 5 # Kalkaji Mandir to Govind Puri
-164 165 1.2 2 v 5 # Govind Puri to Harkesh Nagar Okhla
-165 166 1.1 2 v 5 # Harkesh Nagar Okhla to Jasola Apollo
-166 167 1.0 2 v 5 # Jasola Apollo to Sarita Vihar
-167 168 1.3 2 v 5 # Sarita Vihar to Mohan Estate
-168 169 1.2 2 v 5 # Mohan Estate to Tughlakabad Station
-169 170 1.0 2 v 5 # Tughlakabad Station to Badarpur Border
-170 171 1.5 2 v 5 # Badarpur Border to Sarai
-171 172 1.2 2 v 5 # Sarai to NHPC Chowk
-172 173 1.1 2 v 5 # NHPC Chowk to Mewala Maharajpur
-173 174 1.0 2 v 5 # Mewala Maharajpur to Sector 28
-174 175 1.3 2 v 5 # Sector 28 to Badkal Mor
-175 176 1.2 2 v 5 # Badkal Mor to Old Faridabad
-176 177 1.0 2 v 5 # Old Faridabad to Neelam Chowk Ajronda
-177 178 1.5 2 v 5 # Neelam Chowk Ajronda to Bata Chowk
-178 179 1.2 2 v 5 # Bata Chowk to Escorts Mujesar
-179 180 1.1 2 v 5 # Escorts Mujesar to Sant Surdas Sihi
-180 181 1.5 2 v 5 # Sant Surdas Sihi to Raja Nahar Singh Ballabhgarh
+148 149 1.5 2 v  # Kashmere Gate to Lal Quila
+149 150 1.2 2 v  # Lal Quila to Jama Masjid
+150 151 1.0 2 v  # Jama Masjid to Delhi Gate
+151 152 1.3 2 v  # Delhi Gate to ITO
+152 153 1.1 2 v  # ITO to Mandi House
+153 154 1.0 2 v  # Mandi House to Janpath
+154 155 1.2 2 v  # Janpath to Central Secretariat
+155 156 1.5 2 v  # Central Secretariat to Khan Market
+156 157 1.0 2 v  # Khan Market to JLN Stadium
+157 158 1.2 2 v  # JLN Stadium to Jangpura
+158 159 1.1 2 v  # Jangpura to Lajpat Nagar
+159 160 1.0 2 v  # Lajpat Nagar to Moolchand
+160 161 1.3 2 v  # Moolchand to Kailash Colony
+161 162 1.2 2 v  # Kailash Colony to Nehru Place
+162 163 1.0 2 v  # Nehru Place to Kalkaji Mandir
+163 164 1.5 2 v  # Kalkaji Mandir to Govind Puri
+164 165 1.2 2 v  # Govind Puri to Harkesh Nagar Okhla
+165 166 1.1 2 v  # Harkesh Nagar Okhla to Jasola Apollo
+166 167 1.0 2 v  # Jasola Apollo to Sarita Vihar
+167 168 1.3 2 v  # Sarita Vihar to Mohan Estate
+168 169 1.2 2 v  # Mohan Estate to Tughlakabad Station
+169 170 1.0 2 v  # Tughlakabad Station to Badarpur Border
+170 171 1.5 2 v  # Badarpur Border to Sarai
+171 172 1.2 2 v  # Sarai to NHPC Chowk
+172 173 1.1 2 v  # NHPC Chowk to Mewala Maharajpur
+173 174 1.0 2 v  # Mewala Maharajpur to Sector 28
+174 175 1.3 2 v  # Sector 28 to Badkal Mor
+175 176 1.2 2 v  # Badkal Mor to Old Faridabad
+176 177 1.0 2 v  # Old Faridabad to Neelam Chowk Ajronda
+177 178 1.5 2 v  # Neelam Chowk Ajronda to Bata Chowk
+178 179 1.2 2 v  # Bata Chowk to Escorts Mujesar
+179 180 1.1 2 v  # Escorts Mujesar to Sant Surdas Sihi
+180 181 1.5 2 v  # Sant Surdas Sihi to Raja Nahar Singh Ballabhgarh
 
 # Pink Line (p)
-182 183 1.5 2 p 5 # Majlis Park to Azadpur
-183 184 1.2 2 p 5 # Azadpur to Shalimar Bagh
-184 185 1.0 2 p 5 # Shalimar Bagh to Netaji Subhash Place
-185 186 1.3 2 p 5 # Netaji Subhash Place to Shakurpur
-186 187 1.1 2 p 5 # Shakurpur to Punjabi Bagh West
-187 188 1.0 2 p 5 # Punjabi Bagh West to ESI Basaidarapur
-188 189 1.2 2 p 5 # ESI Basaidarapur to Rajouri Garden
-189 190 1.5 2 p 5 # Rajouri Garden to Mayapuri
-190 191 1.0 2 p 5 # Mayapuri to Naraina Vihar
-191 192 1.2 2 p 5 # Naraina Vihar to Delhi Cantt
-192 193 1.1 2 p 5 # Delhi Cantt to Durgabai Deshmukh South Campus
-193 194 1.0 2 p 5 # Durgabai Deshmukh South Campus to Sir M Vishweshwaraiah Moti Bagh
-194 195 1.3 2 p 5 # Sir M Vishweshwaraiah Moti Bagh to Bhikaji Cama Place
-195 196 1.2 2 p 5 # Bhikaji Cama Place to Sarojini Nagar
-196 197 1.0 2 p 5 # Sarojini Nagar to Dilli Haat INA
-197 198 1.5 2 p 5 # Dilli Haat INA to South Extension
-198 199 1.2 2 p 5 # South Extension to Lajpat Nagar
-199 200 1.1 2 p 5 # Lajpat Nagar to Vinobapuri
-200 201 1.0 2 p 5 # Vinobapuri to Ashram
-201 202 1.3 2 p 5 # Ashram to Sarai Kale Khan Nizamuddin
-202 203 1.2 2 p 5 # Sarai Kale Khan Nizamuddin to Mayur Vihar I
-203 204 1.0 2 p 5 # Mayur Vihar I to Mayur Vihar Pocket 1
-204 205 1.5 2 p 5 # Mayur Vihar Pocket 1 to Trilokpuri Sanjay Lake
-205 206 1.2 2 p 5 # Trilokpuri Sanjay Lake to East Vinod Nagar Mayur Vihar II
-206 207 1.1 2 p 5 # East Vinod Nagar Mayur Vihar II to Mandawali West Vinod Nagar
-207 208 1.0 2 p 5 # Mandawali West Vinod Nagar to IP Extension
-208 209 1.3 2 p 5 # IP Extension to Anand Vihar ISBT
-209 210 1.2 2 p 5 # Anand Vihar ISBT to Karkarduma
-210 211 1.0 2 p 5 # Karkarduma to Karkarduma Court
-211 212 1.5 2 p 5 # Karkarduma Court to Krishna Nagar
-212 213 1.2 2 p 5 # Krishna Nagar to East Azad Nagar
-213 214 1.1 2 p 5 # East Azad Nagar to Welcome
-214 215 1.0 2 p 5 # Welcome to Jafrabad
-215 216 1.3 2 p 5 # Jafrabad to Maujpur Babarpur
-216 217 1.2 2 p 5 # Maujpur Babarpur to Gokulpuri
-217 218 1.0 2 p 5 # Gokulpuri to Johri Enclave
-218 219 1.5 2 p 5 # Johri Enclave to Shiv Vihar
+182 183 1.5 2 p  # Majlis Park to Azadpur
+183 184 1.2 2 p  # Azadpur to Shalimar Bagh
+184 185 1.0 2 p  # Shalimar Bagh to Netaji Subhash Place
+185 186 1.3 2 p  # Netaji Subhash Place to Shakurpur
+186 187 1.1 2 p  # Shakurpur to Punjabi Bagh West
+187 188 1.0 2 p  # Punjabi Bagh West to ESI Basaidarapur
+188 189 1.2 2 p  # ESI Basaidarapur to Rajouri Garden
+189 190 1.5 2 p  # Rajouri Garden to Mayapuri
+190 191 1.0 2 p  # Mayapuri to Naraina Vihar
+191 192 1.2 2 p  # Naraina Vihar to Delhi Cantt
+192 193 1.1 2 p  # Delhi Cantt to Durgabai Deshmukh South Campus
+193 194 1.0 2 p  # Durgabai Deshmukh South Campus to Sir M Vishweshwaraiah Moti Bagh
+194 195 1.3 2 p  # Sir M Vishweshwaraiah Moti Bagh to Bhikaji Cama Place
+195 196 1.2 2 p  # Bhikaji Cama Place to Sarojini Nagar
+196 197 1.0 2 p  # Sarojini Nagar to Dilli Haat INA
+197 198 1.5 2 p  # Dilli Haat INA to South Extension
+198 199 1.2 2 p  # South Extension to Lajpat Nagar
+199 200 1.1 2 p  # Lajpat Nagar to Vinobapuri
+200 201 1.0 2 p  # Vinobapuri to Ashram
+201 202 1.3 2 p  # Ashram to Sarai Kale Khan Nizamuddin
+202 203 1.2 2 p  # Sarai Kale Khan Nizamuddin to Mayur Vihar I
+203 204 1.0 2 p  # Mayur Vihar I to Mayur Vihar Pocket 1
+204 205 1.5 2 p  # Mayur Vihar Pocket 1 to Trilokpuri Sanjay Lake
+205 206 1.2 2 p  # Trilokpuri Sanjay Lake to East Vinod Nagar Mayur Vihar II
+206 207 1.1 2 p  # East Vinod Nagar Mayur Vihar II to Mandawali West Vinod Nagar
+207 208 1.0 2 p  # Mandawali West Vinod Nagar to IP Extension
+208 209 1.3 2 p  # IP Extension to Anand Vihar ISBT
+209 210 1.2 2 p  # Anand Vihar ISBT to Karkarduma
+210 211 1.0 2 p  # Karkarduma to Karkarduma Court
+211 212 1.5 2 p  # Karkarduma Court to Krishna Nagar
+212 213 1.2 2 p  # Krishna Nagar to East Azad Nagar
+213 214 1.1 2 p  # East Azad Nagar to Welcome
+214 215 1.0 2 p  # Welcome to Jafrabad
+215 216 1.3 2 p  # Jafrabad to Maujpur Babarpur
+216 217 1.2 2 p  # Maujpur Babarpur to Gokulpuri
+217 218 1.0 2 p  # Gokulpuri to Johri Enclave
+218 219 1.5 2 p  # Johri Enclave to Shiv Vihar
 
 # Magenta Line (m)
-220 221 1.5 2 m 5 # Krishna Park Extension to Janakpuri West
-221 222 1.2 2 m 5 # Janakpuri West to Dabri Mor Janakpuri South
-222 223 1.0 2 m 5 # Dabri Mor Janakpuri South to Dashrathpuri
-223 224 1.3 2 m 5 # Dashrathpuri to Palam
-224 225 1.1 2 m 5 # Palam to Sadar Bazaar Cantonment
-225 226 1.0 2 m 5 # Sadar Bazaar Cantonment to Terminal 1 IGI Airport
-226 227 1.2 2 m 5 # Terminal 1 IGI Airport to Shankar Vihar
-227 228 1.5 2 m 5 # Shankar Vihar to Vasant Vihar
-228 229 1.0 2 m 5 # Vasant Vihar to Munirka
-229 230 1.2 2 m 5 # Munirka to RK Puram
-230 231 1.1 2 m 5 # RK Puram to IIT
-231 232 1.0 2 m 5 # IIT to Hauz Khas
-232 233 1.3 2 m 5 # Hauz Khas to Panchsheel Park
-233 234 1.2 2 m 5 # Panchsheel Park to Chirag Delhi
-234 235 1.0 2 m 5 # Chirag Delhi to Greater Kailash
-235 236 1.5 2 m 5 # Greater Kailash to Nehru Enclave
-236 237 1.2 2 m 5 # Nehru Enclave to Kalkaji Mandir
-237 238 1.1 2 m 5 # Kalkaji Mandir to Okhla NSIC
-238 239 1.0 2 m 5 # Okhla NSIC to Sukhdev Vihar
-239 240 1.3 2 m 5 # Sukhdev Vihar to Jamia Millia Islamia
-240 241 1.2 2 m 5 # Jamia Millia Islamia to Okhla Vihar
-241 242 1.0 2 m 5 # Okhla Vihar to Jasola Vihar Shaheen Bagh
-242 243 1.5 2 m 5 # Jasola Vihar Shaheen Bagh to Kalindi Kunj
-243 244 1.2 2 m 5 # Kalindi Kunj to Okhla Bird Sanctuary
-244 245 1.5 2 m 5 # Okhla Bird Sanctuary to Botanical Garden
+220 221 1.5 2 m  # Krishna Park Extension to Janakpuri West
+221 222 1.2 2 m  # Janakpuri West to Dabri Mor Janakpuri South
+222 223 1.0 2 m  # Dabri Mor Janakpuri South to Dashrathpuri
+223 224 1.3 2 m  # Dashrathpuri to Palam
+224 225 1.1 2 m  # Palam to Sadar Bazaar Cantonment
+225 226 1.0 2 m  # Sadar Bazaar Cantonment to Terminal 1 IGI Airport
+226 227 1.2 2 m  # Terminal 1 IGI Airport to Shankar Vihar
+227 228 1.5 2 m  # Shankar Vihar to Vasant Vihar
+228 229 1.0 2 m  # Vasant Vihar to Munirka
+229 230 1.2 2 m  # Munirka to RK Puram
+230 231 1.1 2 m  # RK Puram to IIT
+231 232 1.0 2 m  # IIT to Hauz Khas
+232 233 1.3 2 m  # Hauz Khas to Panchsheel Park
+233 234 1.2 2 m  # Panchsheel Park to Chirag Delhi
+234 235 1.0 2 m  # Chirag Delhi to Greater Kailash
+235 236 1.5 2 m  # Greater Kailash to Nehru Enclave
+236 237 1.2 2 m  # Nehru Enclave to Kalkaji Mandir
+237 238 1.1 2 m  # Kalkaji Mandir to Okhla NSIC
+238 239 1.0 2 m  # Okhla NSIC to Sukhdev Vihar
+239 240 1.3 2 m  # Sukhdev Vihar to Jamia Millia Islamia
+240 241 1.2 2 m  # Jamia Millia Islamia to Okhla Vihar
+241 242 1.0 2 m  # Okhla Vihar to Jasola Vihar Shaheen Bagh
+242 243 1.5 2 m  # Jasola Vihar Shaheen Bagh to Kalindi Kunj
+243 244 1.2 2 m  # Kalindi Kunj to Okhla Bird Sanctuary
+244 245 1.5 2 m  # Okhla Bird Sanctuary to Botanical Garden
 
 # Grey Line (G)
-246 247 2.0 3 G 10 # Dwarka to Nangli
-247 248 2.5 3 G 10 # Nangli to Najafgarh
-248 249 2.0 3 G 10 # Najafgarh to Dhansa Bus Stand
+246 247 2.0 3 G  # Dwarka to Nangli
+247 248 2.5 3 G  # Nangli to Najafgarh
+248 249 2.0 3 G  # Najafgarh to Dhansa Bus Stand
 
 # Airport Express (a)
-250 251 3.0 4 a 15 # New Delhi to Shivaji Stadium
-251 252 3.5 5 a 15 # Shivaji Stadium to Dhaula Kuan
-252 253 2.0 3 a 15 # Dhaula Kuan to Delhi Aerocity
-253 254 2.5 4 a 15 # Delhi Aerocity to Airport T 3
-254 255 3.0 4 a 15 # Airport T 3 to Dwarka Sector 21
-255 256 2.0 3 a 15 # Dwarka Sector 21 to Yashobhoomi Dwarka Sector 25
+250 251 3.0 4 a  # New Delhi to Shivaji Stadium
+251 252 3.5 5 a  # Shivaji Stadium to Dhaula Kuan
+252 253 2.0 3 a  # Dhaula Kuan to Delhi Aerocity
+253 254 2.5 4 a  # Delhi Aerocity to Airport T 3
+254 255 3.0 4 a  # Airport T 3 to Dwarka Sector 21
+255 256 2.0 3 a  # Dwarka Sector 21 to Yashobhoomi Dwarka Sector 25
 
 # Rapid Metro Gurgaon (R)
-257 258 1.0 2 R 5 # Sector 55 56 to Sector 54 Chowk
-258 259 1.2 2 R 5 # Sector 54 Chowk to Sector 53 54
-259 260 1.0 2 R 5 # Sector 53 54 to Sector 42 43
-260 261 1.3 2 R 5 # Sector 42 43 to Phase 1
-261 262 1.1 2 R 5 # Phase 1 to Sikanderpur
-262 263 1.0 2 R 5 # Sikanderpur to Phase 2
-263 264 1.2 2 R 5 # Phase 2 to Belvedere Towers
-264 265 1.5 2 R 5 # Belvedere Towers to Cyber City
-265 266 1.0 2 R 5 # Cyber City to Moulasari Avenue
-266 267 1.2 2 R 5 # Moulasari Avenue to Phase 3
+257 258 1.0 2 R  # Sector 55 56 to Sector 54 Chowk
+258 259 1.2 2 R  # Sector 54 Chowk to Sector 53 54
+259 260 1.0 2 R  # Sector 53 54 to Sector 42 43
+260 261 1.3 2 R  # Sector 42 43 to Phase 1
+261 262 1.1 2 R  # Phase 1 to Sikanderpur
+262 263 1.0 2 R  # Sikanderpur to Phase 2
+263 264 1.2 2 R  # Phase 2 to Belvedere Towers
+264 265 1.5 2 R  # Belvedere Towers to Cyber City
+265 266 1.0 2 R  # Cyber City to Moulasari Avenue
+266 267 1.2 2 R  # Moulasari Avenue to Phase 3
 
 # Interchange Connections (i)
-15 40 0.1 1 i 0  # Kashmere Gate (Red 15, Yellow 40)
-15 148 0.1 1 i 0 # Kashmere Gate (Red 15, Violet 148)
-40 148 0.1 1 i 0 # Kashmere Gate (Yellow 40, Violet 148)
-43 250 0.1 1 i 0 # New Delhi (Yellow 43, Airport Express 250)
-44 94 0.1 1 i 0  # Rajiv Chowk (Yellow 44, Blue 94)
-46 155 0.1 1 i 0 # Central Secretariat (Yellow 46, Violet 155)
-96 153 0.1 1 i 0 # Mandi House (Blue 96, Violet 153)
-99 116 0.1 1 i 0 # Yamuna Bank (Blue 99, Blue 116) - Key for Vaishali to Golf Course
-101 203 0.1 1 i 0 # Mayur Vihar I (Blue 101, Pink 203)
-121 209 0.1 1 i 0 # Anand Vihar ISBT (Blue 121, Pink 209)
-197 50 0.1 1 i 0  # Dilli Haat INA (Pink 197, Yellow 50)
-199 159 0.1 1 i 0 # Lajpat Nagar (Pink 199, Violet 159)
-232 53 0.1 1 i 0  # Hauz Khas (Magenta 232, Yellow 53)
-237 163 0.1 1 i 0 # Kalkaji Mandir (Magenta 237, Violet 163)
-62 262 0.1 1 i 0  # Sikanderpur (Yellow 62, Rapid Metro 262)
+15 40 0.0 1 i  # Kashmere Gate (Red 15, Yellow 40)
+15 148 0.0 1 i  # Kashmere Gate (Red 15, Violet 148)
+40 148 0.0 1 i  # Kashmere Gate (Yellow 40, Violet 148)
+43 250 0.0 1 i  # New Delhi (Yellow 43, Airport Express 250)
+44 94 0.0 1 i  # Rajiv Chowk (Yellow 44, Blue 94)
+46 155 0.0 1 i  # Central Secretariat (Yellow 46, Violet 155)
+96 153 0.0 1 i  # Mandi House (Blue 96, Violet 153)
+99 116 0.0 1 i  # Yamuna Bank (Blue 99, Blue 116)
+101 203 0.0 1 i  # Mayur Vihar I (Blue 101, Pink 203)
+121 209 0.0 1 i  # Anand Vihar ISBT (Blue 121, Pink 209)
+197 50 0.0 1 i  # Dilli Haat INA (Pink 197, Yellow 50)
+199 159 0.0 1 i  # Lajpat Nagar (Pink 199, Violet 159)
+232 53 0.0 1 i  # Hauz Khas (Magenta 232, Yellow 53)
+237 163 0.0 1 i  # Kalkaji Mandir (Magenta 237, Violet 163)
+62 262 0.0 1 i  # Sikanderpur (Yellow 62, Rapid Metro 262)

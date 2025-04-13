@@ -1,12 +1,10 @@
-0 2 1670 1560 t 2000
-2 0 1670 1560 t 2000
-0 4 2400 2160 t 2500
-4 0 2400 2160 t 2500
-2 4 620 660 t 1000
-4 2 620 660 t 1000
-1 3 1250 270 f 6000
-3 1 1250 270 f 6000
-1 5 1740 300 f 7000
-5 1 1740 300 f 7000
-3 5 560 210 f 5000
-5 3 560 210 f 5000
+# Intercity Line
+0 1 2000.0 1200 i  # Delhi to Bangalore
+1 2 600.0 360 i    # Bangalore to Hyderabad
+2 3 700.0 420 i    # Hyderabad to Mumbai
+3 4 800.0 480 i    # Mumbai to Chennai
+4 0 1800.0 1080 i  # Chennai to Delhi
+
+# Interchange Connections (if needed, e.g., for city hubs)
+0 2 0.1 1 t  # Delhi to Hyderabad (hypothetical transfer)
+1 3 0.1 1 t  # Bangalore to Mumbai (hypothetical transfer)
