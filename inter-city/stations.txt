@@ -1,5 +1,3 @@
 0 Delhi # i
 1 Bangalore # i
 2 Hyderabad # i
-3 Mumbai # i
-4 Chennai # i
